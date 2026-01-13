@@ -1,15 +1,5 @@
-![MasterHead](https://github.com/NishantYadav001/MYCodes/blob/35a0abc881dde15f1121fa770929b503735a9064/GIF_To_Video_Conversion_Complete%20(4)%20(1).gif)
-<!-- <h1 align="center">Hi 👋, I'm Nishant Yadav</h1>
-<h3 align="center">A passionate backend developer from India</h3>
-
-<img align="right" width="400"<img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1)](https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?resize=476%2C280&ssl=1" alt="Nishant001"/>
- -->
-
-
-
-
 <div align="center">
-  <img src="https://media.tenor.com/7Amk5gqC0s4AAAAC/programming.gif" width="100%" style="border-radius: 10px;" alt="Coding from back view" />
+  <img src="https://github.com/NishantYadav001/MYCodes/raw/35a0abc881dde15f1121fa770929b503735a9064/GIF_To_Video_Conversion_Complete%20(4)%20(1).gif" width="100%" style="border-radius: 10px;" alt="Coding Banner" />
 </div>
 
 <div align="center">
@@ -46,7 +36,11 @@
     <td width="45%" valign="center">
       <div align="center">
         <a href="https://leetcode.com/u/Nishant_Yadav_01/">
-          <img src="https://leetcard.jacoblin.cool/Nishant_Yadav_01?theme=dark&font=hm&ext=heatmap" alt="LeetCode Stats" width="100%" />
+          <img src="https://leetcard.jacoblin.cool/Nishant_Yadav_01?theme=light&font=hm&ext=heatmap" alt="LeetCode Stats" width="100%" />
+        </a>
+        <br/><br/>
+        <a href="https://codolio.com/profile/Nishant_Yadav_01">
+          <img src="https://dsastats.vercel.app/api?username=Nishant_Yadav_01&platform=codolio&theme=tokyonight" alt="Codolio Stats" width="100%"/>
         </a>
       </div>
     </td>
