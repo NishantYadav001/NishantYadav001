@@ -17,7 +17,7 @@
         <li>🌱 I’m currently learning <b>JAVA BACKEND</b>.</li>
         <li>💡 <b>LeetCode Enthusiast:</b> Consistent problem solver.</li>
         <li>⚡ Fun fact: <b>I am self-motivated.</b></li>
-        <li>💬 Ask me about <b>DSA, Java, C++, Python & React</b>.</li>
+        <li>💬 Ask me about <b>DSA, Java, Python & React</b>.</li>
         <li>📫 How to reach me: <a href="mailto:Nishantyaduvanshi056@gmail.com">Nishantyaduvanshi056@gmail.com</a></li>
       </ul>
       <br/>
@@ -68,7 +68,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   
 </div>
 
